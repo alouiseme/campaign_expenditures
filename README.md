@@ -1,4 +1,4 @@
-<h3>Data grabbed from the State Board of Elections, Official Candidate Filings  
+<h3>Data grabbed from the State Board of Elections, Official Candidate Filings  </h3>
 
 *2019 Mayoral Candidates: Bill Daley, Amara Eniya, Toni Preckwinkle, Lori Lightfoot, Susana Mendoza, Gary Chico*
 
